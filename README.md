@@ -12,4 +12,5 @@ https://maven.google.com/androidx/appcompat/appcompat-resources/1.1.0/appcompat-
 
 **References:**
 - https://developer.android.com/jetpack
+- https://developer.android.com/jetpack/androidx
 - https://developer.android.com/jetpack/androidx/releases/appcompat
